@@ -1,3 +1,3 @@
 - 👀 interested in singing, watching shows and movies
-- 🌱 currently learning Frontend & Backend Web Development
+- 🌱 currently learning full stack web development
 - 📫 instagram- @akshata_shukla, twitter- @akshatashukla24, linkedin- @akshatashukla24 
